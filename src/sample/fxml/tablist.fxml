@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml" fx:id="tabBox" prefHeight="400.0" prefWidth="403.0">
+<children>
+    <TabPane fx:id="tabList" prefHeight="417.0" prefWidth="401.0" tabClosingPolicy="UNAVAILABLE">
+        <tabs>
+            <Tab text="Untitled Tab 1">
+                <content>
+                    <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" />
+                </content>
+            </Tab>
+            <Tab text="Untitled Tab 2">
+                <content>
+                    <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" />
+                </content>
+            </Tab>
+        </tabs>
+    </TabPane>
+</children>
+</VBox>

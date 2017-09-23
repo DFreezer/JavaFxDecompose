@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import sample.controllers.AccordionController ?>
+<?import sample.controllers.TabListController ?>
+
+
+<?import sample.controllers.MainController?>
+<MainController maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.111">
+    <children>
+        <AccordionController>
+        </AccordionController>
+        <TabListController>
+        </TabListController>
+    </children>
+</MainController>
